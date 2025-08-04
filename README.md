@@ -67,10 +67,6 @@ HeadHunters is a Flutter application designed to intelligently match job seekers
    flutter run
    ```
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Please open an issue or submit a pull request.
-
 ## License
 
 [MIT](LICENSE)
